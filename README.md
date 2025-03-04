@@ -94,5 +94,3 @@ Me chamo Gabriel Medeiros de Mendonça, tenho 25 anos e sou natural da Paraíba.
 <br/>
 <br/>
 
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-afd&show_icons=true&theme=dark&locale=pt-br)

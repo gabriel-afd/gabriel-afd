@@ -6,7 +6,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Gabriel Medeiros de Mendonça, tenho 25 anos e sou natural da Paraíba. Sou concluinte em Engenharia Mecânica na Universidade Federal de Campina Grande e também estudante de Análise e Desenvolvimento de Sistemas na UNIFACISA-CG.
+Me chamo Gabriel Medeiros de Mendonça, tenho 25 anos e sou natural da Paraíba. Sou Engenheiro Mecânico formado na Universidade Federal de Campina Grande e também estudante de Análise e Desenvolvimento de Sistemas na UNIFACISA-CG.
 
 ### 💻 Linguagens e Tecnologias
 
